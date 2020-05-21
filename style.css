@@ -2,14 +2,12 @@ p {
 color:black;
 }
 
-<style>
-.center {
- text-align: center
+.page-title {
+  text-align: center;
 }
-</style>
-
-<p class="center page-title"</p>
 
 
-
+.personal-info {
+ text-align: center;
+}
 
