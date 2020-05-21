@@ -1,3 +1,7 @@
 p {
-color:red;
+color:black;
+}
+
+.page-title {
+  text-align: center;
 }
