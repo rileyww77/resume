@@ -16,6 +16,9 @@ color:black;
 
 .body, h1 {
   border: 3px solid black;
-font-family: 'Apple Chancery', cursive;
+}
+  
+ .body, h2 {
+   font-family: 'Apple Chancery', cursive;
 }
 
